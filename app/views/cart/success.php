@@ -1,0 +1,1 @@
+<p>Bạn đã checkout thành công hãy chờ điện thoại!</p>
